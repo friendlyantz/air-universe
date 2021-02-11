@@ -1,7 +1,6 @@
-## Graduation warm up project
+## 1st Graduation project AirBNB clone
 ### Ruby on Rails + basic HTML / sCSS / JS
 
-AirBNB clone: 
 * list your own venue
 * book someones venue
 * manage bookings
