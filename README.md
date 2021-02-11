@@ -1,1 +1,3 @@
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
+## Graduation warm up project made on Ruby on Rails + basic HTML / sCSS / JS
+
+http://air-universe.herokuapp.com/
