@@ -7,4 +7,4 @@ Team: 3
 http://air-universe.herokuapp.com/
 
 ## DB: Postgres
-![db](https://ibb.co/r24qJDC"><img src="https://i.ibb.co/HTnRQ5W/galaxies.png)
+![db](https://i.ibb.co/HTnRQ5W/galaxies.png)
