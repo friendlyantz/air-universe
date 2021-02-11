@@ -1,7 +1,7 @@
 ## Graduation warm up project
 ### Ruby on Rails + basic HTML / sCSS / JS
 
-* Timeframe: 4days
+* Timeframe: 4 days
 * Team: 3
 
 http://air-universe.herokuapp.com/
